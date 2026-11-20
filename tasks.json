@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "stage": "Getting Started",
+    "question": "Have you introduced yourself in the welcome channel?",
+    "task": "Introduce yourself in #welcome.",
+    "instructions": "Post a short intro: who you are, what you're working on, and what you want to get out of this community.",
+    "resource_url": ""
+  },
+  {
+    "id": 2,
+    "stage": "Getting Started",
+    "question": "Have you set a goal for the next 30 days?",
+    "task": "Write down one clear 30-day goal.",
+    "instructions": "Pick one measurable goal and share it in your progress channel so others can keep you accountable.",
+    "resource_url": ""
+  },
+  {
+    "id": 3,
+    "stage": "Build Momentum",
+    "question": "Have you completed your first weekly check-in?",
+    "task": "Post your first weekly check-in.",
+    "instructions": "Share what you finished this week, what blocked you, and what you'll do next week.",
+    "resource_url": ""
+  }
+]
